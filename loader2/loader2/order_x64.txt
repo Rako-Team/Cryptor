@@ -1,0 +1,17 @@
+dc2
+build_image
+load_data_from_resources
+api_init
+get_proc_address_from_kernel
+process_import
+base64_decode
+base64_get_decoded_data_length
+arc4_ctxlen
+arc4_setkey
+arc4_encrypt
+arc4_decrypt
+aP_getbit
+aP_getgamma
+aP_depack
+crt_memcpy
+crt_memset

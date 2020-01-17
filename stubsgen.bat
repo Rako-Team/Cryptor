@@ -1,0 +1,11 @@
+python "programs/stubsgen.py"^
+ --patterns-dir "patterns"^
+ --patterns-funcs-max 3^
+ --static-import-dir "import/static"^
+ --static-funcs-max 10^
+ --dynamic-import-dir "import/dynamic"^
+ --dynamic-libs-max 5^
+ --dynamic-funcs-max 10^
+ --stubs-num 7^
+ --rounds-num 3^
+ "loader1" "stubs"

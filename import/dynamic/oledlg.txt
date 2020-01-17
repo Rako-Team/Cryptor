@@ -1,0 +1,12 @@
+OleUIAddVerbMenu
+OleUIBusy
+OleUICanConvertOrActivateAs
+OleUIChangeIcon
+OleUIChangeSource
+OleUIConvert
+OleUIEditLinks
+OleUIInsertObject
+OleUIObjectProperties
+OleUIPasteSpecial
+OleUIPromptUser
+OleUIUpdateLinks

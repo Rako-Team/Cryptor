@@ -1,0 +1,15 @@
+_flushall
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+freopen
+fscanf
+fseek
+fsetpos
+_fsopen
+ftell
+_fullpath
+fwrite

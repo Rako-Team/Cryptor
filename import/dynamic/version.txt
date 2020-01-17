@@ -1,0 +1,6 @@
+GetFileVersionInfo
+GetFileVersionInfoSize
+VerFindFile
+VerInstallFile
+VerLanguageName
+VerQueryValue

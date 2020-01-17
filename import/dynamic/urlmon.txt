@@ -1,0 +1,15 @@
+CreateURLMoniker
+GetClassURL
+MkParseDisplayNameEx
+RevokeBindStatusCallback
+CreateFormatEnumerator
+RegisterFormatEnumerator
+RevokeFormatEnumerator
+RegisterMediaTypes
+FindMediaType
+RegisterMediaTypeClass
+FindMediaTypeClass
+CreateAsyncBindCtx
+IsAsyncMoniker
+GetClassFileOrMime
+IsValidURL
